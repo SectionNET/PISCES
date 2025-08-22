@@ -5,19 +5,19 @@
     "userName": "Agent Harlowe"
   },
   {
-    "userId": "player2",
+    "userId": "blythe",
     "password": "123",
-    "userName": "Player Character 2"
+    "userName": "TBlythe"
   },
   {
-    "userId": "player3",
+    "userId": "gerald",
     "password": "123",
-    "userName": "Player Character 3"
+    "userName": "HGerald"
   },
   {
-    "userId": "player4",
+    "userId": "percival",
     "password": "123",
-    "userName": "Player Character 4"
+    "userName": "Wpercival"
   },
   {
     "userId": "admin",
